@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="NeedIt" max_length="40" name="x_63414_needit_needit" type="collection">
+        <element label="Requested for" mandatory="true" max_length="32" name="u_requested_for" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="Finance" label="Request type" mandatory="true" max_length="40" name="u_request_types" type="string">
+            <choice>
+                <element label="Human Resurces" sequence="0" value="Human Resurces"/>
+                <element label="Legal" sequence="1" value="Legal"/>
+                <element label="Facilities" sequence="2" value="Facilities"/>
+                <element label="Finance" sequence="3" value="Finance"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="Legal2" label="What needed" mandatory="true" max_length="40" name="u_what_needed" type="string">
+            <choice>
+                <element label="Human Resources1" sequence="0" value="Human Resources1"/>
+                <element label="Human Resouces2" sequence="1" value="Human Resouces2"/>
+                <element label="Legal1" sequence="2" value="Legal1"/>
+                <element label="Legal2" sequence="3" value="Legal2"/>
+                <element label="Facilities1" sequence="4" value="Facilities1"/>
+                <element label="Facilities2" sequence="5" value="Facilities2"/>
+                <element label="Finance1" sequence="6" value="Finance1"/>
+                <element label="Finance2" sequence="7" value="Finance2"/>
+            </choice>
+        </element>
+        <element label="When needed" mandatory="true" max_length="40" name="u_when_needed" type="glide_date_time"/>
+    </element>
+</database>
