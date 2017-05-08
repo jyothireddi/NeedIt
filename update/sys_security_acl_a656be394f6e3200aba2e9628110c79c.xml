@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-06 12:25:44</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a656be394f6e3200aba2e9628110c79c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_63414_needit_needit</sys_name>

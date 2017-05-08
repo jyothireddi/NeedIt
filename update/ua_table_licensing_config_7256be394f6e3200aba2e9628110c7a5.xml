@@ -9,7 +9,7 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-06 12:25:45</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>7256be394f6e3200aba2e9628110c7a5</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_63414_needit_needit</sys_name>
