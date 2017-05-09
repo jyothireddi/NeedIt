@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update sys_domain="global" table="sys_script_client">
     <sys_script_client action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <applies_extended>false</applies_extended>
         <condition/>
         <description>Only display What needed choices that match the Request type value.</description>
@@ -59,7 +59,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>4158d5224f223200aba2e9628110c754</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>NeedIt Type Of Questions</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_63414_needit">0665beb54f6e3200aba2e9628110c7e7</sys_package>
@@ -68,7 +68,7 @@
         <sys_scope display_value="NeedIt">0665beb54f6e3200aba2e9628110c7e7</sys_scope>
         <sys_update_name>sys_script_client_4158d5224f223200aba2e9628110c754</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-08 13:36:14</sys_updated_on>
+        <sys_updated_on>2017-05-08 16:25:41</sys_updated_on>
         <table>x_63414_needit_needit</table>
         <type>onChange</type>
         <ui_type>0</ui_type>
