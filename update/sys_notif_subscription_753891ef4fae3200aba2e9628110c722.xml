@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_notif_subscription">
+    <sys_notif_subscription action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <affected_record/>
+        <affected_table/>
+        <condition/>
+        <devices>527ae0614f102200aba2e9628110c7c1</devices>
+        <filter/>
+        <name>Testing personal notification preference</name>
+        <notification display_value="Incident Opened and Unassigned">0d539c30c0a80164013cc05fcf7e5573</notification>
+        <schedule/>
+        <sys_class_name>sys_notif_subscription</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-11 16:04:32</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>753891ef4fae3200aba2e9628110c722</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Testing personal notification preference</sys_name>
+        <sys_package display_value="NeedIt" source="x_63414_needit">0665beb54f6e3200aba2e9628110c7e7</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt">0665beb54f6e3200aba2e9628110c7e7</sys_scope>
+        <sys_update_name>sys_notif_subscription_753891ef4fae3200aba2e9628110c722</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-11 16:04:32</sys_updated_on>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+    </sys_notif_subscription>
+</record_update>
